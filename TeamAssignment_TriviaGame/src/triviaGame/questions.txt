@@ -1,0 +1,5 @@
+What is the capital city of Italy?|Milan|Rome|Venice|Naples|2
+Which planet in our solar system is known as the Red Planet?|Venus|Jupiter|Mars|Saturn|3
+What is the largest ocean on Earth?|Atlantic Ocean|Indian Ocean|Arctic Ocean|Pacific Ocean|4
+In Java, which keyword is used to inherit a class?|implements|extends|inherits|super|2
+How many continents are there on Earth?|5|6|7|8|3
